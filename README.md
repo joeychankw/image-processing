@@ -29,12 +29,12 @@ HKUST 2019-2020 Fall COMP4421
 ## Assignment 4
 Face recognition
 
-Identify faces in 32x32 processed extended Yale Face Dataset B
+Identify faces in 32x32 processed extended Yale Face Dataset B<br/>
 Use Local Ternary Pattern and preprocess chain proposed in the paper "Enhanced local texture feature sets for face recognition under difficult lighting conditions"
 
-Number of subjects: 38
-Total test images: 2376
-Overall recognition rates: 89.646465%
+Number of subjects: 38<br/>
+Total test images: 2376<br/>
+Overall recognition rates: 89.646465%  
 
 Reference:
 - X. Tan, B. Triggs, "Enhanced local texture feature sets for face recognition under difficult lighting conditions", IEEE Trans. Image Process., vol. 19, no. 6, pp. 1635-1650, Jun. 2010.
