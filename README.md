@@ -33,11 +33,11 @@ HKUST 2019-2020 Fall COMP4421
     <th>Progress</th>
   </tr>
   <tr>
-    <td>
-      <p align="center"><img src="img/ass3_Q2_3.bmp" height="200"></p>
+    <td align="center">
+      <img src="img/ass3_Q2_3.bmp" height="200">
     </td>
-    <td>
-      <p align="center"><img src="img/ass3_Q2_3_boxes.png" height="200"></p>
+    <td align="center">
+      <img src="img/ass3_Q2_3_boxes.png" height="200">
     </td>
   </tr>
   <tr>
@@ -45,8 +45,8 @@ HKUST 2019-2020 Fall COMP4421
   </tr>
   <tr>
   <tr>
-    <td colspan="2">
-      <p align="center"><img src="img/ass3_Q2_3_all.jpg"></p>
+    <td colspan="2" align="center">
+      <img src="img/ass3_Q2_3_all.jpg">
     </td>
   </tr>
 </table>
