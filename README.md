@@ -13,18 +13,43 @@ HKUST 2019-2020 Fall COMP4421
 1. Connected components
 2. Hough transform
     - detect syntheic circles
-    - detect 4 edges and corners
+    - detect four sides of an A4 paper
 
-<img src="img/ass2_Q3_4.png" height="200">
-<img src="img/ass2_Q3_6.png" height="200">
+| A4 paper detection output                  |
+| :----------------------------------------: |
+| <img src="img/ass2_Q3_4.png" height="200"> |
+| <img src="img/ass2_Q3_6.png" height="200"> |
 
 ## Assignment 3
 1. Image warping
 2. Digit Segmentation
 
-<img src="img/ass3_Q2_3.bmp" height="200">
-<img src="img/ass3_Q2_3_boxes.png" height="200">
-<img src="img/ass3_Q2_3_all.jpg">
+<table>
+  <tr>
+    <th colspan="2">Degit segmentation output</th>
+  </tr>
+  <tr>
+    <th>Input image</th>
+    <th>Progress</th>
+  </tr>
+  <tr>
+    <td>
+      <p align="center"><img src="img/ass3_Q2_3.bmp" height="200"></p>
+    </td>
+    <td>
+      <p align="center"><img src="img/ass3_Q2_3_boxes.png" height="200"></p>
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2">Output</th>
+  </tr>
+  <tr>
+  <tr>
+    <td colspan="2">
+      <p align="center"><img src="img/ass3_Q2_3_all.jpg"></p>
+    </td>
+  </tr>
+</table>
 
 ## Assignment 4
 Face recognition
@@ -32,9 +57,35 @@ Face recognition
 Identify faces in 32x32 processed extended Yale Face Dataset B<br/>
 Use Local Ternary Pattern and preprocess chain proposed in the paper "Enhanced local texture feature sets for face recognition under difficult lighting conditions"
 
-Number of subjects: 38<br/>
-Total test images: 2376<br/>
-Overall recognition rates: 89.646465%  
+| Image samples before and after preprocessing     |
+| :----------------------------------------------: |
+| <img src="img/ass4_preprocess.png" height="400"> |
+
+<table>
+  <tr>
+    <th colspan="6">Overall recognition rates</th>
+  </tr>
+  <tr>
+    <td colspan="5" align="center">Subset No. (number of probes)</td>
+    <td rowspan="2" align="center">Total (2376)</td>
+  </tr>
+  <tr>
+    <td align="center">1 (301)</td>
+    <td align="center">2 (342)</td>
+    <td align="center">3 (493)</td>
+    <td align="center">4 (526)</td>    
+    <td align="center">5 (714)</td>
+  </tr>
+  <tr>
+    <td align="center">91.694352%</td>
+    <td align="center">100%</td>
+    <td align="center">88.640974%</td>
+    <td align="center">87.072243%</td>    
+    <td align="center">86.414566%</td>
+    <td align="center">89.646465%</td>
+  </tr>
+  <tr>
+</table>
 
 Reference:
 - X. Tan, B. Triggs, "Enhanced local texture feature sets for face recognition under difficult lighting conditions", IEEE Trans. Image Process., vol. 19, no. 6, pp. 1635-1650, Jun. 2010.
