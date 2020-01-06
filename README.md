@@ -26,7 +26,7 @@ HKUST 2019-2020 Fall COMP4421
 
 <table>
   <tr>
-    <th colspan="2">Degit segmentation output</th>
+    <th colspan="2">Digit segmentation output</th>
   </tr>
   <tr>
     <th>Input image</th>
