@@ -1,4 +1,4 @@
-# image-processing
+# Image Processing
 HKUST 2019-2020 Fall COMP4421
 
 ## Assignment 1
@@ -17,8 +17,8 @@ HKUST 2019-2020 Fall COMP4421
 
 | A4 paper detection output                  |
 | :----------------------------------------: |
-| <img src="img/ass2_Q3_4.png" height="200"> |
-| <img src="img/ass2_Q3_6.png" height="200"> |
+| <img src="img/ass2_Q3_4.png" height="200"><img src="img/ass2_Q3_4_command.png" width="650"> |
+| <img src="img/ass2_Q3_6.png" height="200"><img src="img/ass2_Q3_6_command.png" width="650"> |
 
 ## Assignment 3
 1. Image warping
